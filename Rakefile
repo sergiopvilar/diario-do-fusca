@@ -26,9 +26,10 @@ task :deploy do
     cd "../" do
 
       system "git checkout gh-pages"
+      system 'ls | grep -v ".git" | xargs rm -rf'
 
       puts "## Copying gerenated site"
-      system "cp -a /tmp/_site ./"
+      system "cp -a /tmp/_site/* ./"
 
       system "git add -A"
 
