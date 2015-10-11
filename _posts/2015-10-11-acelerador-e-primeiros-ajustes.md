@@ -2,7 +2,7 @@
 layout: post
 title: Acelerador e primeiros ajustes
 slug: acelerador-e-primeiros-ajustes
-date:   2015-10-11 19:00:00
+date: 2015-10-11 19:00:00
 categories:
   - Manutenção
   - Tutorial
