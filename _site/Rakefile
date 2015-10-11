@@ -40,6 +40,7 @@ task :deploy do
       system "git push"
 
       puts "## Deploy Complete!"
+      system "git checkout master"
 
     end
   end
