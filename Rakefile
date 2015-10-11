@@ -9,6 +9,7 @@ task :deploy do
 
   system "git checkout master"
   system "mkdir /tmp/_site"
+  system "jekyll build"
   system "cp _site/ /tmp/_site/"
 
   cd "_site" do
