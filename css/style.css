@@ -3422,3 +3422,13 @@ body {
     display: none;
   }
 }
+
+.profile img {
+  margin-bottom:10px;
+}
+
+#instafeed a {
+  display: inline-block;
+  width: 145px;
+  padding: 0 10px;
+}

@@ -1,45 +1,21 @@
+<div class="profile">
+  <h3>Sérgio Vilar</h3>
+  <img src="/images/foto.jpg" alt="Sérgio Vilar">
+  <p>23 – João Pessoa, Brasil.<br /> Acabei de comprar meu primeiro Fusca, me acompanhe nessa aventura.</p>
+</div>
+
 <div class='links'>
   <h3>Arquivo</h3>
+
   <ul>
-    <li>
-      <a href='#'>December 2011</a>
-      <span>(2)</span>
-    </li>
-    <li>
-      <a href='#'>November 2011</a>
-      <span>(4)</span>
-    </li>
-    <li>
-      <a href='#'>October 2011</a>
-      <span>(1)</span>
-    </li>
-    <li>
-      <a href='#'>September 2011</a>
-      <span>(3)</span>
-    </li>
-    <li>
-      <a href='#'>July 2011</a>
-      <span>(5)</span>
-    </li>
-    <li>
-      <a href='#'>June 2011</a>
-      <span>(3)</span>
-    </li>
-    <li>
-      <a href='#'>May 2011</a>
-      <span>(6)</span>
-    </li>
-    <li>
-      <a href='#'>April 2011</a>
-      <span>(1)</span>
-    </li>
+    {% datearchive %}{% enddatearchive %}    
   </ul>
 </div>
 <div class='links'>
   <h3>Categorias</h3>
   <ul>
     {% for cat in site.categories %}
-      <li><a href="#">{{cat | first | capitalize}}</a></li>
+    <li>{% categorylink cat[0] %}{{cat | first | capitalize}}{% endcategorylink %}</li>
     {% endfor %}
   </ul>
 </div>
@@ -58,7 +34,7 @@
   <h3>Tags</h3>
   <ul>
     {% for tag in site.tags %}
-      <li><a href="#">{{tag | first | capitalize}}</a></li>
+    <li>{% taglink tag[0] %}{{tag | first }}{% endtaglink %}</li>
     {% endfor %}
   </ul>
 </div>

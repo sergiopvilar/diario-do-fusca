@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="full">
+  <div class="row">
+    <div class="large-9 columns">
+
+      <span class="title">Arquivo para: {{ page.tag }}</span>
+
+      {% for post in site.posts %}
+
+        {% assign show = "false" %}
+
+        {% for cate in post.tags %}
+          {% capture cat %}{{ cate | downcase }}{% endcapture %}
+          {% if page.tag == cat %}
+            {% assign show = "true" %}
+          {% endif %}
+        {% endfor %}
+
+        {% if show == "true" %}
+          {% include post_item.html %}
+        {% endif %}
+
+      {% endfor %}
+
+    </div>
+    <div class="large-3 columns" id="sidebar">
+      {% include sidebar.html %}
+    </div>
+  </div>
+</div>

@@ -5,6 +5,22 @@ jQuery.extend({
   }
 });
 
+// Instagram
+(function(){
+
+  var feed = new Instafeed({
+    get: 'user',
+    userId: 308754939,
+    accessToken: '308754939.467ede5.48655e567ad845d8a6bb1f0a4801aa6c',
+    template: '<a target="_blank" href="{{link}}"><img src="{{image}}" /></a>',
+    filter: function(image) {
+      return image.tags.indexOf('fusca') >= 0;
+    }
+  });
+  feed.run();
+
+}());
+
 (function(removeClass) {
   jQuery.fn.removeClass = function(value) {
     if(value && typeof value.test === 'function') {
@@ -800,5 +816,3 @@ jQuery(document).foundation();
     }
   })
 })(Tc.$);
-
-
