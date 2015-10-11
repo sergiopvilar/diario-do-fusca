@@ -5,7 +5,7 @@ task :deploy do
   puts "## Deploying to Github Pages"
 
   puts "## Generating site"
-  system "grunt build"
+  # system "grunt build"
 
   cd "_site" do
     system "cp ./_site /tmp/_site"
