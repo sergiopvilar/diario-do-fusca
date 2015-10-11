@@ -9,7 +9,7 @@ categories:
 tags:
   - acelerador,cabo,aceleração,motor,pedais,fusca
 images:
-  - http://d.pr/i/13pIY.jpg
+  - http://i.imgur.com/Ah6vI4Q.jpg
 excerpt: Neste post eu conto um pouco sobre como recolocar o cabo do acelerador, como acelerar o carro e também como manter a aceleração sem estancar.
 ---
 
@@ -31,7 +31,7 @@ A dúvida era: se eu soltar o cabo do acelerador pra poder manobrar ele no pedal
 
 Acabei tentando prender no pedal sem soltar no motor e foi um desastre, não tinha como ecaixar. Nessa situação você pode soltar o cabo no motor e pedir a alguém pra segurar, não deixando ele entrar no carro.
 
-![Cabo do acelerador](http://d.pr/i/1aOOJ.jpg)
+![Cabo do acelerador](http://i.imgur.com/hSVBIQt.png)
 
 Em vermelho você pode ver o cabo do acelerador preso, e em azul o parafuso que prende ele.
 
@@ -39,17 +39,17 @@ Beleza, cabo encaixado com sucesso é hora de ligar o carro. Não dava a partida
 
 **OBS:** É importante lembrar que você pode regular a sensibilidade do pedal do acelerador pelo aperto do cabo do acelerador. Quanto mais esticado, mais sensível o pedal será.
 
-![Cabo solto na bobina](http://d.pr/i/1adtW.jpg)
+![Cabo solto na bobina](http://i.imgur.com/win1v8W.png)
 
 Acabei descobrindo que esse cabo tinha se soltado da bobina enquanto eu mexia no motor pra sotar o cabo do acelerador. Você pode ver o cabo em azul e o plug da bobina em verde.
 
 Carro ligado. Eba! Mas não mantiha a aceleração, tinha algo muito errado aí.
 
-![Parafuso para acelerar o carro](http://d.pr/i/1eRib.jpg)
+![Parafuso para acelerar o carro](http://i.imgur.com/kSkF68s.png)
 
 Tentei dar uma regulada na aceleração do carro neste parafuso em azul, conforme você aperta ele o carro vai ficando mais acelerado. É uma boa forma de *personalizar* a aceleração do carro.
 
-![Peça para manter aceleração](http://d.pr/i/1l6qG.jpg)
+![Peça para manter aceleração](http://i.imgur.com/5j5DM7k.png)
 
 De qualquer forma, não resolveu. Só então descobri que esta peça em verde precisava ser encaixaia nesse buraco em azul. Devo ter batido sem querer daí soltou.
 
