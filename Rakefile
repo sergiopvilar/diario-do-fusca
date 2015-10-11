@@ -8,6 +8,21 @@ task :deploy do
   system "grunt build"
 
   cd "_site" do
+    system "cp _site /tmp/_site"
+    system "git add -A"
+
+    message = "Site updated at #{Time.now.utc}"
+    puts "## Commiting: #{message}"
+    system "git commit -m \"#{message}\""
+
+    puts "## Pushing generated site"
+    system "git push"
+
+    system "checkout gh-pages"
+
+    puts "## Copying gerenated site"
+    system "cp /tmp/_site ."
+
     system "git add -A"
 
     message = "Site updated at #{Time.now.utc}"
