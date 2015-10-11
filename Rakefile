@@ -20,21 +20,25 @@ task :deploy do
     puts "## Pushing generated site"
     system "git push"
 
-    system "checkout gh-pages"
+    cd "../" do
 
-    puts "## Copying gerenated site"
-    system "cp /tmp/_site ."
+      system "checkout gh-pages"
 
-    system "git add -A"
+      puts "## Copying gerenated site"
+      system "cp -a /tmp/_site ./"
 
-    message = "Site updated at #{Time.now.utc}"
-    puts "## Commiting: #{message}"
-    system "git commit -m \"#{message}\""
+      system "git add -A"
 
-    puts "## Pushing generated site"
-    system "git push"
+      message = "Site updated at #{Time.now.utc}"
+      puts "## Commiting: #{message}"
+      system "git commit -m \"#{message}\""
 
-    puts "## Deploy Complete!"
+      puts "## Pushing generated site"
+      system "git push"
+
+      puts "## Deploy Complete!"
+
+    end
   end
 end
 
