@@ -7,6 +7,7 @@ task :deploy do
   puts "## Generating site"
   # system "grunt build"
 
+  system "git checkout master"
   system "mkdir /tmp/_site"
   system "cp _site/ /tmp/_site/"
 
@@ -22,7 +23,7 @@ task :deploy do
 
     cd "../" do
 
-      system "checkout gh-pages"
+      system "git checkout gh-pages"
 
       puts "## Copying gerenated site"
       system "cp -a /tmp/_site ./"
