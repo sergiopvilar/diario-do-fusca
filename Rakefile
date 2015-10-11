@@ -8,9 +8,10 @@ task :deploy do
   # system "grunt build"
 
   system "git checkout master"
+  system "rm -rf /tmp/_site"
   system "mkdir /tmp/_site"
   system "jekyll build"
-  system "cp _site/ /tmp/_site/"
+  system "cp -a _site/. /tmp/_site/"
 
   cd "_site" do
     system "git add -A"
