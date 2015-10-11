@@ -38,7 +38,7 @@ task :deploy do
       system "git commit -m \"#{message}\""
 
       puts "## Pushing generated site"
-      system "git push"
+      system "git push origin gh-pages"
 
       puts "## Deploy Complete!"
       system "git checkout master"
