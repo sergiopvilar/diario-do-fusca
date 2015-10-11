@@ -54,3 +54,5 @@ Tentei dar uma regulada na aceleração do carro neste parafuso em azul, conform
 De qualquer forma, não resolveu. Só então descobri que esta peça em verde precisava ser encaixaia nesse buraco em azul. Devo ter batido sem querer daí soltou.
 
 Resolvido! Carro ligado, tudo certinho.
+
+Claro que não teria conseguido nada disso sem o incrível suporte do [Rodrigo Medeiros](https://twitter.com/crmedeiros) (foto), ex-dono do carro.
