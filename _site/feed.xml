@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Meuse</title>
+    <title>Diário do Fusca</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Oct 2015 19:56:52 -0300</pubDate>
-    <lastBuildDate>Sat, 10 Oct 2015 19:56:52 -0300</lastBuildDate>
+    <pubDate>Sun, 11 Oct 2015 00:16:14 -0300</pubDate>
+    <lastBuildDate>Sun, 11 Oct 2015 00:16:14 -0300</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
