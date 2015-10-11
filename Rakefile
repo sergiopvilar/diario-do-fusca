@@ -8,7 +8,7 @@ task :deploy do
   system "grunt build"
 
   cd "_site" do
-    system "cp _site /tmp/_site"
+    system "cp ./_site /tmp/_site"
     system "git add -A"
 
     message = "Site updated at #{Time.now.utc}"
