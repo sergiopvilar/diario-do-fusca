@@ -5,7 +5,13 @@ task :deploy do
   puts "## Deploying to Github Pages"
 
   puts "## Generating site"
-  system "grunt build"
+  # system "grunt build"
+
+  system "git checkout master"
+  system "rm -rf /tmp/_site"
+  system "mkdir /tmp/_site"
+  system "jekyll build"
+  system "cp -a _site/. /tmp/_site/"
 
   cd "_site" do
     system "git add -A"
@@ -17,7 +23,27 @@ task :deploy do
     puts "## Pushing generated site"
     system "git push"
 
-    puts "## Deploy Complete!"
+    cd "../" do
+
+      system "git checkout gh-pages"
+      system 'ls | grep -v ".git" | xargs rm -rf'
+
+      puts "## Copying gerenated site"
+      system "cp -a /tmp/_site/* ./"
+
+      system "git add -A"
+
+      message = "Site updated at #{Time.now.utc}"
+      puts "## Commiting: #{message}"
+      system "git commit -m \"#{message}\""
+
+      puts "## Pushing generated site"
+      system "git push"
+
+      puts "## Deploy Complete!"
+      system "git checkout master"
+
+    end
   end
 end
 
