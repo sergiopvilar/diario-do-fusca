@@ -16,18 +16,19 @@ layout: blog
       <span>
         Em
         {% for cat in page.categories %}
-          <a href="#">{{cat}}</a>
-          {% unless forloop.last %}
-              ,
-          {% endunless %}
+          <a href="#">{{cat}}</a>{% unless forloop.last %}, {% endunless %}
         {% endfor %}
       </span>
     </p>
     <h3><a href="{{page.url}}">{{page.title}}</a></h3>
     {{content}}
   </div>
+  <div class="rodape">
+    Tags: {% for tag in page.tags %}
+    {% taglink tag %}{{tag}}{% endtaglink %}{% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+  </div>
 </div>
-<div class='two spacing'></div>
 <a id='comments'></a>
 {% include comments.html %}
 <div class='four spacing'></div>

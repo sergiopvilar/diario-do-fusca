@@ -11,10 +11,7 @@
       <span>
         em
         {% for cat in post.categories %}
-          {% categorylink cat %}{{cat}}{% endcategorylink %}
-          {% unless forloop.last %}
-              ,
-          {% endunless %}
+          {% categorylink cat %}{{cat}}{% endcategorylink %}{% unless forloop.last %}, {% endunless %}
         {% endfor %}
       </span>
       <!--span class="disqus-comment-count" data-disqus-identifier="{{post.slug}}">First article</span-->

@@ -20,7 +20,7 @@ Bom, ao dar um banho no rapaz percebi alguns pontos de *permeabilidade* como os 
 
 Após o banho dado, removi os adesivos do antigo dono. Acredito que cada um deva *conquistar* seus próprios adesivos, por isso sempre removo os do dono anterior de qualquer coisa que eu compre.
 
-Prendi uma borracha solta na porta do passageiro e dei um aperto na maçaneta que estava folgada, hora de ligar o carro. Ao ligar o carro veio a surpresa: o cabo do acelerador tinha aca#bado de soltar e eu não fazia ideia de como pôr de volta.
+Prendi uma borracha solta na porta do passageiro e dei um aperto na maçaneta que estava folgada, hora de ligar o carro. Ao ligar o carro veio a surpresa: o cabo do acelerador tinha acabado de soltar e eu não fazia ideia de como pôr de volta.
 
 Mas vamos lá, perna pro alto, se espreme dentro do carro e nada de conseguir encaixar a peça. Foi aí que eu recorri prontamente ao [canal do Tonella](https://www.youtube.com/channel/UCJZ75yOincDOGYJ0R53sjyw) no youtube:  
 
