@@ -7,6 +7,7 @@ url: "http://diariodofusca.com" # the base hostname & protocol for your site
 twitter_username: feelsen
 github_username:  sergiovilar
 disqus_shortname: diriodofusca
+google_analytics: UA-65332388-2
 
 # Build settings
 markdown: kramdown
