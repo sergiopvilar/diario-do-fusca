@@ -13,7 +13,7 @@ markdown: kramdown
 
 paginate: 4
 paginate_path: "blog/page:num"
-permalink: /:categories/:title.html
+permalink: /:title.html
 
 category_archive:
   slugify: true
