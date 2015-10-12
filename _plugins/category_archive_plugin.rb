@@ -49,7 +49,7 @@ module Jekyll
     end
 
     def render(context)
-      
+
       # If the category is a variable in the current context, expand it
       if context.has_key?(@category)
 	      category = context[@category]
@@ -96,7 +96,7 @@ module Jekyll
       self.data = {
           'layout' => @layout,
           'type' => 'archive',
-          'title' => "Category archive for #{@category}",
+          'title' => "Arquivo para: #{@category}",
           'posts' => posts,
           'url' => File.join('/',
                      CategoryArchiveUtil.archive_base(site),
