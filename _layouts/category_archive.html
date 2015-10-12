@@ -6,7 +6,7 @@ layout: default
   <div class="row">
     <div class="large-9 columns">
 
-      <span class="title">Arquivo para: {{ page.category }}</span>
+      <h3>Arquivo para: {{ page.category }}</h3>
 
       {% for post in site.posts %}
 
@@ -20,7 +20,7 @@ layout: default
         {% endfor %}
 
         {% if show == "true" %}
-          {% include post_item.html %}        
+          {% include post_item.html %}
         {% endif %}
 
       {% endfor %}

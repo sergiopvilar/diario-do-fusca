@@ -6,8 +6,7 @@ date: 2015-10-11 19:00:00
 categories:
   - Manutenção
   - Tutorial
-tags:
-  - acelerador,cabo,aceleração,motor,pedais,fusca
+tags: [acelerador,cabo,aceleração,motor,pedais,fusca]
 images:
   - http://i.imgur.com/Ah6vI4Q.jpg
 excerpt: Neste post eu conto um pouco sobre como recolocar o cabo do acelerador, como acelerar o carro e também como manter a aceleração sem estancar.
