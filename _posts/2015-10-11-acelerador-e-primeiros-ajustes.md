@@ -24,7 +24,7 @@ Prendi uma borracha solta na porta do passageiro e dei um aperto na maçaneta qu
 
 Mas vamos lá, perna pro alto, se espreme dentro do carro e nada de conseguir encaixar a peça. Foi aí que eu recorri prontamente ao [canal do Tonella](https://www.youtube.com/channel/UCJZ75yOincDOGYJ0R53sjyw) no youtube:  
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/oKqubdYBs4Y" frameborder="0" allowfullscreen></iframe>
+<div class="video-container"><iframe width="640" height="480" src="https://www.youtube.com/embed/oKqubdYBs4Y" frameborder="0" allowfullscreen></iframe></div>
 
 A dúvida era: se eu soltar o cabo do acelerador pra poder manobrar ele no pedal pode acontecer dele entrar dentro do carro e aí só indo pra debaixo dele pra resolver, o que não era uma opção.
 
