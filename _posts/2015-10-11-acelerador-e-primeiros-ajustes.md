@@ -7,10 +7,10 @@ categories:
   - Manutenção
   - Tutorial
 tags: [acelerador,cabo,aceleração,motor,pedais,fusca]
-images:
-  - http://i.imgur.com/Ah6vI4Q.jpg
 excerpt: Neste post eu conto um pouco sobre como recolocar o cabo do acelerador, como acelerar o carro e também como manter a aceleração sem estancar.
 ---
+
+![Compra](http://i.imgur.com/Ah6vI4Q.jpg)
 
 Ontem foi um dia e tanto. Eu acabara de receber meu Fusca 79, e como era sábado era o dia perfeito pra dar um banho e cuidar de pequenos ajustes no rapaz.
 
