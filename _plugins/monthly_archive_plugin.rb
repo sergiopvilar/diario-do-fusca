@@ -56,10 +56,9 @@ module Jekyll
       meses = [
         'Janeiro', 'Fevereiro', 'Maço', 'Abril', 'Maio', 'Junho', 'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'
       ]
-
       posts_group_by_year_and_month(context).each do |ym, list|
         href = File.join('/', ym[0].to_s, ym[1].to_s, 'index.html')
-        out = "<li><a href=\"#{href}\">" + meses[ym[1]-1] + " de " + ym[0].to_s + " (" + list.length.to_s + ")</a></li>"
+        out += "<li><a href=\"#{href}\">" + meses[ym[1]-1] + " de " + ym[0].to_s + " (" + list.length.to_s + ")</a></li>"
       end
 
       out
