@@ -5,8 +5,7 @@ slug: fusca-sem-freio
 date:   2015-11-12 19:00:00
 categories:
   - Manutenção
-tags:
-  - fusca
+tags: [fusca,freio,vazamento,manutenção,oficina]
 excerpt: |
   Um dos maiores problemas que venho enfrentando ao tentar resolver probelmas no meu fusca é minha total falta de experiência com carros, essa minha ignorância no assunto me fez deixar passar um problema seríssimo no meu fusca: falta de freios.<br /><br />
   Há duas semanas atrás eu havia percebido uma mudança no comportamento do pedal de freio: quando você pisava até o final, depois de pouco tempo o pedal cedia e ia até o limite da pedaleira. A princípio achei bem estranho, mas como não havia andado quase nada no carro nas últimas semanas, não sabia se era um comportamento normal. E ficou por isso mesmo.
@@ -26,6 +25,6 @@ Saí pra catar algumas peças e voltei pra buscar o fusca. O que havia acontecid
 
 Tem um vídeo bem interessante do Tonella, na saga do Fusquinha Quindim, onde ele mostra exatamente a troca do cano do freio:
 
-<div class=“video-container”><iframe width="853" height="480" src="https://www.youtube.com/embed/SYPpNoF6Kxg&start=561” frameborder="0" allowfullscreen></iframe></div>
+<div class="video-container"><iframe width="853" height="480" src="https://www.youtube.com/embed/SYPpNoF6Kxg?start=561" frameborder="0" allowfullscreen></iframe></div>
 
 Fusca freando bem novamente, hora de voltar pra casa e se preparar pra a próxima aventura!
