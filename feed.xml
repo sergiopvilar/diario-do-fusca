@@ -5,9 +5,40 @@
     <description>Aventuras de um Fusca 79.</description>
     <link>http://diariodofusca.com/</link>
     <atom:link href="http://diariodofusca.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 Nov 2015 22:05:46 -0300</pubDate>
-    <lastBuildDate>Mon, 02 Nov 2015 22:05:46 -0300</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2015 23:14:53 -0300</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2015 23:14:53 -0300</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Fusca sem freio, e agora?</title>
+        <description>&lt;p&gt;Um dos maiores problemas que venho enfrentando ao tentar resolver probelmas no meu fusca é minha total falta de experiência com carros, essa minha ignorância no assunto me fez deixar passar um problema seríssimo no meu fusca: falta de freios.&lt;/p&gt;
+
+&lt;p&gt;Há duas semanas atrás eu havia percebido uma mudança no comportamento do pedal de freio: quando você pisava até o final, depois de pouco tempo o pedal cedia e ia até o limite da pedaleira. A princípio achei bem estranho, mas como não havia andado quase nada no carro nas últimas semanas, não sabia se era um comportamento normal. E ficou por isso mesmo.&lt;/p&gt;
+
+&lt;p&gt;Acontece que estou tendo aulas de direção com meu pai, e num determinado momento num cruzamento, ele percebeu que mesmo eu pisando no freio, o carro não parava imediatamente.&lt;/p&gt;
+
+&lt;p&gt;“Esse carro tá sem freio, vamos levar numa oficina”. E assim foi feito.&lt;/p&gt;
+
+&lt;p&gt;Chegando na oficina o principal suspeito foi o &lt;em&gt;cilindro mestre&lt;/em&gt;, dado o comportamento que eu havia descrito sobre o freio. Só que ninguém até então havia percebido alguns vazamentos de óleo, o que realmente só foi observado depois de alguns bons minutos na oficina.&lt;/p&gt;
+
+&lt;p&gt;Saí pra catar algumas peças e voltei pra buscar o fusca. O que havia acontecido? O cano do freio havia amassado numa das pontas  e por causa disso aconteciam duas coisas: a entrada de ar no sistema de freio e o vazamento do flúido de freio.&lt;/p&gt;
+
+&lt;p&gt;Tem um vídeo bem interessante do Tonella, na saga do Fusquinha Quindim, onde ele mostra exatamente a troca do cano do freio:&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;div class=“video-container”&amp;gt;&amp;lt;iframe width=”853” height=”480” src=”https://www.youtube.com/embed/SYPpNoF6Kxg&amp;amp;start=561” frameborder=”0” allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&amp;lt;/div&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;Fusca freando bem novamente, hora de voltar pra casa e se preparar pra a próxima aventura!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Nov 2015 16:00:00 -0300</pubDate>
+        <link>http://diariodofusca.com/fusca-sem-freio.html</link>
+        <guid isPermaLink="true">http://diariodofusca.com/fusca-sem-freio.html</guid>
+        
+        <category>fusca</category>
+        
+        
+        <category>manutenção</category>
+        
+      </item>
     
       <item>
         <title>Cabo do acelerador soltando, como resolver?</title>
