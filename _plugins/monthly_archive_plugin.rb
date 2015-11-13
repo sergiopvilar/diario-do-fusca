@@ -77,6 +77,7 @@ module Jekyll
     ]
 
     def initialize(site, dir, year, month, posts)
+      @posts = posts
       @site = site
       @dir = dir
       @year = year
@@ -90,6 +91,7 @@ module Jekyll
 {% for post in page.posts %}<li><a href="{{ post.url }}"><span>{{ post.title }}</span></a></li>
 {% endfor %}
       EOS
+
       self.data = {
           'layout' => @layout,
           'type' => 'archive',
@@ -99,6 +101,7 @@ module Jekyll
                      MonthlyArchiveUtil.archive_base(site),
                      @archive_dir_name, 'index.html')
       }
+
     end
 
     def render(layouts, site_payload)
@@ -106,6 +109,7 @@ module Jekyll
           'page' => self.to_liquid,
           'paginator' => pager.to_liquid
       }.merge(site_payload)
+      puts layouts
       do_layout(payload, layouts)
     end
 

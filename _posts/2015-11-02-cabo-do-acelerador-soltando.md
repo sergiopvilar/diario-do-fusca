@@ -6,7 +6,8 @@ date:   2015-11-02 19:00:00
 categories:
   - Manutenção
 tags: [acelerador,cabo,aceleração,motor,pedais,fusca]
-excerpt: Um fim para a minha problemática história com o cabo do acelerador do fusca.
+excerpt: |
+  Minha problemática história com o cabo do acelerador do fusca começo no meu primeiro dia com o Pamonha, como você pode ver nesse post. Por se tratar de um risco enorme ter a possibilidade do cabo soltar no trânsito, decidi ir um pouco mais à fundo no assunto.
 ---
 
 Minha problemática história com o cabo do acelerador do fusca começo no meu primeiro dia com o Pamonha, como você pode ver [nesse post](http://diariodofusca.com/acelerador-e-primeiros-ajustes.html). Por se tratar de um risco enorme ter a possibilidade do cabo soltar no trânsito, decidi ir um pouco mais à fundo no assunto.
