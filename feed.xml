@@ -5,9 +5,49 @@
     <description>Aventuras de um Fusca 79.</description>
     <link>http://diariodofusca.com/</link>
     <atom:link href="http://diariodofusca.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Nov 2015 08:42:48 -0300</pubDate>
-    <lastBuildDate>Fri, 13 Nov 2015 08:42:48 -0300</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Sun, 20 Dec 2015 22:30:36 -0300</pubDate>
+    <lastBuildDate>Sun, 20 Dec 2015 22:30:36 -0300</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Novos retrovisores e pequenos ajustes</title>
+        <description>&lt;p&gt;Quando comprei o Pamonha, uma série de coisas precisava ser feita, mas entre elas a que mais me incomodava era a porta do passageiro. Teoricamente a porta só tinha uma folga e toda vez precisava ser suspensa pra poder fechar, o problema é que fazer isso estando dentro do carro era praticamente impossível.&lt;/p&gt;
+
+&lt;p&gt;Pois bem, juntando esse problema com a falta de um retrovisor no lado do passageiro (vale lembrar que eu estou aprendendo a dirigir), compramos um par de retrovisores raquete e fomos a um funileiro.&lt;/p&gt;
+
+&lt;p&gt;Na hora de escolher um funileiro pensei logo no Roberto, da &lt;a href=&quot;https://goo.gl/maps/tsSHAbaDwyF2&quot;&gt;Carruagem&lt;/a&gt;, que é um amigo de longa data da minha família e porque de fusca ele entende! O Roberto tem um fusca com a lataria toda modificada, lembrando muito um Chrysler.&lt;/p&gt;
+
+&lt;p&gt;Nem eu nem meu pai lembrávamos onde ficava a oficina do Roberto mas acabamos encontrando por acaso ao sair pra comprar algumas peças do interior do fusca.&lt;/p&gt;
+
+&lt;p&gt;Chegando lá descobrimos que a porta precisava ser soldada, não se tratava de um mero aperto. Orçamos o serviço e eu ainda descolei um porta-luvas original de um fusca 80 que estava sendo desmontado lá.&lt;/p&gt;
+
+&lt;p&gt;O serviço ficou realmente muito bom, além de corrigir a porta do passageiro, ele também alinhou a do motorista usando um esticador, também fez o reparo em alguns pontos de tinta estourada e claro, furou a porta do passageiro para instalar um retrovisor.&lt;/p&gt;
+
+&lt;h4 id=&quot;servio&quot;&gt;Serviço&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Furagem de porta do passageiro para instalação de retrovisor&lt;/li&gt;
+  &lt;li&gt;Soldagem da porta do passageiro + pintura&lt;/li&gt;
+  &lt;li&gt;Alinhamento das portas&lt;/li&gt;
+  &lt;li&gt;Reparo na pintura em pontos estourados&lt;/li&gt;
+  &lt;li&gt;Porta-luvas original&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Custo total: R$ 450,00&lt;/p&gt;
+
+&lt;p&gt;Saí feliz e safisteito, super recomendo!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 20 Dec 2015 16:00:00 -0300</pubDate>
+        <link>http://diariodofusca.com/novos-retrovisores.html</link>
+        <guid isPermaLink="true">http://diariodofusca.com/novos-retrovisores.html</guid>
+        
+        <category>fusca</category>
+        
+        <category>funilaria</category>
+        
+        
+        <category>Manutenção</category>
+        
+      </item>
     
       <item>
         <title>Fusca sem freio, e agora?</title>
@@ -44,7 +84,7 @@
         <category>oficina</category>
         
         
-        <category>manutenção</category>
+        <category>Manutenção</category>
         
       </item>
     
@@ -87,7 +127,7 @@
         <category>fusca</category>
         
         
-        <category>manutenção</category>
+        <category>Manutenção</category>
         
       </item>
     
@@ -156,9 +196,9 @@
         <category>fusca</category>
         
         
-        <category>manutenção</category>
+        <category>Manutenção</category>
         
-        <category>tutorial</category>
+        <category>Tutorial</category>
         
       </item>
     
