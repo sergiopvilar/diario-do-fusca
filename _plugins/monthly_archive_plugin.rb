@@ -109,7 +109,6 @@ module Jekyll
           'page' => self.to_liquid,
           'paginator' => pager.to_liquid
       }.merge(site_payload)
-      puts layouts
       do_layout(payload, layouts)
     end
 

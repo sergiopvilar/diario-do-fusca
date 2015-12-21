@@ -1,0 +1,9 @@
+/* line 1, ../sass/custom.scss */
+.modBlogPost {
+  margin-bottom: 0;
+}
+
+/* line 5, ../sass/custom.scss */
+.modBlogPost.big .info {
+  margin-bottom: 5px;
+}
