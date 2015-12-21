@@ -14,8 +14,6 @@ excerpt: |
   Decidi comprar um fusca pra ocupar meu tempo com algo mais offline além da programação e claro, cuidar de um carro e injetar minha pessonalidade nele. Esse é o desafio!
 ---
 
-![Compra](http://i.imgur.com/Ah6vI4Q.jpg)
-
 Ontem foi um dia e tanto. Eu acabara de receber meu Fusca 79, e como era sábado era o dia perfeito pra dar um banho e cuidar de pequenos ajustes no rapaz.
 
 Decidi comprar um fusca pra ocupar meu tempo com algo mais *offline* além da [programação](http://github.com/sergiovilar) e claro, cuidar de um carro e injetar minha pessonalidade nele. Esse é o desafio!
