@@ -22,3 +22,9 @@ Claro que bom estado não significa exatamente novo, principalmente quando estam
 Ah! Também consegui um puxador externo pra a porta, já que o meu estava travando e isso impossibilitava a porta de ser aberta.
 
 O Seu Solda tem várias peças de reposição que podem quebrar o galho numa eventualidade, mas eu prefiro sempre que possível comprar peças novas. Por enquanto só descobri o [Barbosa Auto-peças](https://goo.gl/maps/i17fn2nrFk32) que vende peças novas de fusca, mas se você conhece outro lugar em João Pessoa ou nas redondezas, deixe nos comentários, ficarei muito feliz de fazer uma visita.
+
+#### Serviço
+- Conjunto de cintos de segurança + suporte para os prendedores
+- Puxador cromado para a porta do passageiro
+
+Custo total: R$ 60,00
