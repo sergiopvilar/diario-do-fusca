@@ -28,3 +28,9 @@ Tem um vídeo bem interessante do Tonella, na saga do Fusquinha Quindim, onde el
 <div class="video-container"><iframe width="853" height="480" src="https://www.youtube.com/embed/SYPpNoF6Kxg?start=561" frameborder="0" allowfullscreen></iframe></div>
 
 Fusca freando bem novamente, hora de voltar pra casa e se preparar pra a próxima aventura!
+
+
+#### Serviço
+- Novo tubo de freio + novo fluido
+
+Custo total: R$ 145,00
